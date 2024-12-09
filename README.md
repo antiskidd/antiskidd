@@ -10,3 +10,6 @@
 # Socials
 - Roblox - bastasmashack2 - https://www.roblox.com/users/299840345/profile
 - Discord - antiskidd - https://discordlookup.com/user/1235531970839187547
+
+# Profile
+- https://antiskidd.github.io/ a little profile i made
