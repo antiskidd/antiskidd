@@ -12,4 +12,4 @@
 - Discord - antiskidd - https://discordlookup.com/user/1235531970839187547
 
 # Profile
-- https://antiskidd.github.io/ a little profile i made
+- a little profile i made - https://antiskidd.github.io/
