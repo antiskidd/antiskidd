@@ -1,16 +1,12 @@
-## Hi there 👋
+# About me | antiskidd
 
-<!--
-**antiskidd/antiskidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Coding [ c++ & html ]
+- 3D Modelling [ Blender ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Currently worked on a roblox external called Moonlight | discord.gg/CcvHdPCGFF
+  
+# Socials
+- Roblox - bastasmashack2 - https://www.roblox.com/users/299840345/profile
+- Discord - antiskidd - https://discordlookup.com/user/1235531970839187547
