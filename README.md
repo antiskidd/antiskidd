@@ -23,3 +23,12 @@
   <a href="https://open.spotify.com/user/31fapmizv3posqn7ywm53al4ipsq"><img src="https://svgl-badge.vercel.app/api/Music/Spotify?theme=dark"></a>
     <h3>Subscribe to my onlyfans</h3>
 </div>
+<div align="center">
+  <h3>Statistics</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antiskidd&theme=github_dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antiskidd&theme=github_dark&show_icons=false&card_width=350" />
+  </a>
+</div>
