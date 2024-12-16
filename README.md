@@ -1,17 +1,15 @@
 <h1 align="center">antiskidd</h1>
 <div align="center">
-  <h5>Self Taught Programmer</h5>
-  <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
+  <h5>Coder \ 3d modelleer</h5>
 </div>
 <div align="center">
-  <h3>Coding languages</h3>
+  <h3>Languages</h3>
   <img src="https://svgl-badge.vercel.app/api/Language/C?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML5theme=dark"/>
 </div>
 <div align="center">
-  <h3>Cyber Workspace</h3>
+  <h3>Workspace</h3>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Blender?theme=dark"/>
